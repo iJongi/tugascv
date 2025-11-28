@@ -13,9 +13,30 @@
     "portfolio_url": "https://example.com/rasyid-portfolio"
   },
   "skills": [
-    { "id": 1, "name": "Database Dasar (SQL)", "category": "technical", "level": "Beginner", "is_main": true, "years_of_experience": "1 year" },
-    { "id": 2, "name": "Pemrograman Dasar", "category": "technical", "level": "Intermediate", "is_main": true, "years_of_experience": "2 years" },
-    { "id": 3, "name": "Web Development Dasar", "category": "technical", "level": "Beginner", "is_main": false, "years_of_experience": "1 year" }
+    { 
+      "id": 1, 
+      "name": "Database Dasar (SQL)", 
+      "category": "technical", 
+      "level": "Beginner", 
+      "is_main": true, 
+      "years_of_experience": "1 year" 
+    },
+    { 
+      "id": 2, 
+      "name": "Pemrograman Dasar", 
+      "category": "technical", 
+      "level": "Intermediate", 
+      "is_main": true, 
+      "years_of_experience": "2 years" 
+    },
+    { 
+      "id": 3, 
+      "name": "Web Development Dasar", 
+      "category": "technical", 
+      "level": "Beginner", 
+      "is_main": false, 
+      "years_of_experience": "1 year" 
+    }
   ],
   "experiences": [
     {
